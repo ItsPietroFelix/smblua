@@ -1,5 +1,5 @@
 # SMB Lua: Game Values in a simple GUI.
-This is a lua script that shows, in a simple GUI, main values such as Mario's horizontal position and speed, and his subpixel position that works in the vanilla game, for use in FCEUX (BizHawk version soon **;)**) TASes. The way it works is by getting the wanted values by the game's ram, and converting them to the GUI.
+This is a FCEUX lua script (BizHawk version soon **;)**) for SMB1 and SMB2J that shows in a simple GUI important and useful values for TASers, such as Mario's horizontal position and speed, and his subpixel position. Working 100% in the vanilla games, for use in TASes for the game. The way it works is by getting the wanted values by the game's ram, and converting them to the GUI.
 
 You are free to report errors and/or suggest new stuff to be added.
 
