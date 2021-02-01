@@ -4,6 +4,7 @@ This is a FCEUX lua script (BizHawk version soon **;)**) for SMB1 and SMB2J that
 You are free to report errors and/or suggest new stuff to be added.
 
 
+
 Mario **cannot** get any faster than 40 XSP, so here are some speed values for you to know some "limits":
 
 0  - Complete stop, no speed
@@ -11,6 +12,7 @@ Mario **cannot** get any faster than 40 XSP, so here are some speed values for y
 24 - Fastest walking speed
 
 40 - Fastest running speed
+
 
 
 RAM values to Mario's subpixel position get incremented by **16** every time, and after *240* is achieved, it resets to 0 (or 256, i don't know).
